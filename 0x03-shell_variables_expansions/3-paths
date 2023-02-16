@@ -1,0 +1,2 @@
+#!/bin/bash
+ech $PATH | tr 'i' '\n' | wc .1
